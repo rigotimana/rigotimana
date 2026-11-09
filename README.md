@@ -1,84 +1,82 @@
 # ¡Hola! Soy Rigo Timana 👋
 
-### Desarrollador Web Full Stack · Lima, Perú 🇵🇪
+### Full Stack Developer · Lima, Perú 🇵🇪
 
-**De la interfaz a los datos. Software que conecta.**
+**Construyo experiencias cuidadas sobre sistemas que conectan.**
 
-Desarrollo aplicaciones web y móviles para operaciones empresariales. Conecto interfaces, APIs y bases de datos para transformar procesos de producción, asistencia y comercio digital.
+Me gusta llevar las ideas a la práctica: entender el problema, dar forma a la interfaz y conectar cada pieza con la lógica y los datos que necesita. Trabajo con desarrollo web y móvil, con atención a la experiencia de quienes usan el producto.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-172B3A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rigoberto-timana-gutierrez-593569394/)
-[![Correo](https://img.shields.io/badge/Correo-Escríbeme-FE7F2D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rigoberto.timana.dev@gmail.com)
+## 🚀 Qué puedo aportar
 
-## 🚀 Sobre mí
+- **Desarrollo integral:** de una idea en Figma a interfaces, lógica de negocio, APIs e integraciones.
+- **Arquitectura y datos:** diseño flujos de información, modelo bases de datos relacionales y conecto aplicaciones con servicios.
+- **UI/UX:** cuido la claridad, la interacción y los detalles visuales al construir interfaces.
+- **Adaptación:** aprendo herramientas y tecnologías con rapidez para responder a nuevos retos y contextos.
+- **IA en mi flujo de trabajo:** uso asistentes para explorar ideas, analizar problemas y apoyar el desarrollo; reviso las decisiones y la calidad del resultado.
 
-- 💼 Desarrollador web en **MASISAC (Grupo Pionier)** desde 2024; anteriormente practicante de desarrollo web durante 2023.
-- 🔧 Trabajo de principio a fin: entiendo procesos, modelo información e implemento experiencias e integraciones.
-- 🤖 Utilizo herramientas de inteligencia artificial para apoyar el análisis y desarrollo, revisando las decisiones y la calidad del resultado.
-
-## 🛠️ Tecnologías
+## 🛠️ Stack técnico
 
 **Frontend**
 
-![Vue](https://img.shields.io/badge/Vue_2_y_3-172B3A?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Pinia](https://img.shields.io/badge/Pinia-172B3A?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-172B3A?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-172B3A?style=flat-square&logo=typescript)
-![HTML](https://img.shields.io/badge/HTML-172B3A?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-172B3A?style=flat-square&logo=css)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-172B3A?style=flat-square&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-172B3A?style=flat-square&logo=bootstrap)
+![Vue 2 y 3](https://img.shields.io/badge/Vue_2_y_3-262C36?style=flat-square&logo=vuedotjs&logoColor=67E8F9)
+![Pinia](https://img.shields.io/badge/Pinia-262C36?style=flat-square&logoColor=67E8F9)
+![JavaScript](https://img.shields.io/badge/JavaScript-262C36?style=flat-square&logo=javascript&logoColor=67E8F9)
+![TypeScript](https://img.shields.io/badge/TypeScript-262C36?style=flat-square&logo=typescript&logoColor=67E8F9)
+![HTML](https://img.shields.io/badge/HTML-262C36?style=flat-square&logo=html5&logoColor=67E8F9)
+![CSS](https://img.shields.io/badge/CSS-262C36?style=flat-square&logo=css&logoColor=67E8F9)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-262C36?style=flat-square&logo=tailwindcss&logoColor=67E8F9)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-262C36?style=flat-square&logo=bootstrap&logoColor=67E8F9)
 
 **Backend y APIs**
 
-![PHP](https://img.shields.io/badge/PHP-172B3A?style=flat-square&logo=php)
-![.NET](https://img.shields.io/badge/.NET-172B3A?style=flat-square&logo=dotnet)
-![Python](https://img.shields.io/badge/Python-172B3A?style=flat-square&logo=python)
-![APIs REST](https://img.shields.io/badge/APIs_REST-FE7F2D?style=flat-square)
-![Node.js básico](https://img.shields.io/badge/Node.js-básico-172B3A?style=flat-square&logo=nodedotjs)
+![PHP](https://img.shields.io/badge/PHP-262C36?style=flat-square&logo=php&logoColor=67E8F9)
+![.NET](https://img.shields.io/badge/.NET-262C36?style=flat-square&logo=dotnet&logoColor=67E8F9)
+![Python](https://img.shields.io/badge/Python-262C36?style=flat-square&logo=python&logoColor=67E8F9)
+![APIs REST](https://img.shields.io/badge/APIs_REST-262C36?style=flat-square)
+![Node.js básico](https://img.shields.io/badge/Node.js-básico-262C36?style=flat-square&logo=nodedotjs&logoColor=67E8F9)
 
 **Datos**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-172B3A?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-172B3A?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172B3A?style=flat-square&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-262C36?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-262C36?style=flat-square&logo=mysql&logoColor=67E8F9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-262C36?style=flat-square&logo=postgresql&logoColor=67E8F9)
 
-Modelado relacional · Procedimientos almacenados · Jobs y eventos · Automatización de datos
+Modelado relacional · Procedimientos almacenados · Automatización de datos
 
-**Móvil y colaboración**
+**Móvil**
 
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-172B3A?style=flat-square&logo=dotnet)
-![Java](https://img.shields.io/badge/Java-172B3A?style=flat-square)
-![Kotlin](https://img.shields.io/badge/Kotlin-172B3A?style=flat-square&logo=kotlin)
-![Git](https://img.shields.io/badge/Git-172B3A?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-172B3A?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/Figma-172B3A?style=flat-square&logo=figma)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-262C36?style=flat-square&logo=dotnet&logoColor=67E8F9)
+![Java](https://img.shields.io/badge/Java-262C36?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-262C36?style=flat-square&logo=kotlin&logoColor=67E8F9)
 
-## 💡 Proyectos y experiencia aplicada
+## 🧰 Mi entorno de trabajo
 
-1. **Control operativo para producción:** evolución de una plataforma con seguimiento operativo, indicadores, balance de línea y gestión de carga.
-2. **Captura móvil y APIs para operaciones:** arquitectura de datos, APIs y aplicaciones web y móviles con lectores Honeywell; la plataforma se utiliza en **4 áreas**.
-3. **Gestión centralizada de marcaciones:** digitalización del registro de asistencia en distintas sedes, con alcance aproximado de **3,000 trabajadores**.
-4. **Experiencias de comercio electrónico:** evolución de plataformas e-commerce e integración de funcionalidades empresariales con ERP.
-5. **Sitio y tienda autogestionables:** experiencia e-commerce con WordPress, Elementor y WooCommerce, enfocada en gestión autónoma y mantenimiento.
-6. **Portafolio personal · en desarrollo:** sitio estático con Next.js, TypeScript y App Router para presentar trayectoria y proyectos.
+**Código y diseño**
 
-## 📊 Mi actividad en GitHub
+![VS Code](https://img.shields.io/badge/VS_Code-262C36?style=flat-square&logoColor=C4B5FD)
+![Figma](https://img.shields.io/badge/Figma-262C36?style=flat-square&logo=figma&logoColor=C4B5FD)
+![Git](https://img.shields.io/badge/Git-262C36?style=flat-square&logo=git&logoColor=C4B5FD)
+![GitHub](https://img.shields.io/badge/GitHub-262C36?style=flat-square&logo=github&logoColor=C4B5FD)
+![GitLab](https://img.shields.io/badge/GitLab-262C36?style=flat-square&logo=gitlab&logoColor=C4B5FD)
 
-![Estadísticas públicas de GitHub de rigotimana](https://ghstats.dev/api/card?username=rigotimana&bg=172B3A&text=EAECF0&title_color=FE7F2D&icon_color=FE7F2D&border_color=FE7F2D)
+**IA y productividad**
 
-![Lenguajes de los repositorios públicos de rigotimana](https://ghstats.dev/api/langs?username=rigotimana&layout=compact&bg=172B3A&text=EAECF0&title_color=FE7F2D&border_color=FE7F2D)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-262C36?style=flat-square&logo=openai&logoColor=C4B5FD)
+![Codex](https://img.shields.io/badge/Codex-262C36?style=flat-square&logo=openai&logoColor=C4B5FD)
+![Claude](https://img.shields.io/badge/Claude-262C36?style=flat-square&logo=claude&logoColor=C4B5FD)
+![Notion](https://img.shields.io/badge/Notion-262C36?style=flat-square&logo=notion&logoColor=C4B5FD)
 
-Los lenguajes reflejan repositorios públicos y no toda mi experiencia profesional.
+## 📊 Actividad en GitHub
 
-## 🎓 Formación e idiomas
+![Estadísticas públicas de GitHub de rigotimana](https://ghstats.dev/api/card?username=rigotimana&bg=262C36&text=E6EDF3&title_color=67E8F9&icon_color=67E8F9&border_color=C4B5FD)
 
-- **Ingeniería de Sistemas** · Universidad Privada del Norte · En curso desde 2024.
-- **Desarrollo y Diseño Web** · SENATI · Egresado, 2020–2023.
-- Formación complementaria en frontend y UI/UX · Platzi.
-- Español nativo · Inglés A2.
+![Lenguajes de los repositorios públicos de rigotimana](https://ghstats.dev/api/langs?username=rigotimana&layout=compact&bg=262C36&text=E6EDF3&title_color=67E8F9&border_color=C4B5FD)
+
+Los lenguajes reflejan repositorios públicos y no toda mi experiencia.
 
 ## 🤝 Conectemos
 
-Conversemos sobre oportunidades Full Stack, desarrollo web, APIs y datos.
+¿Tienes un producto o un reto de desarrollo en mente? Conversemos.
 
-📩 [rigoberto.timana.dev@gmail.com](mailto:rigoberto.timana.dev@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/rigoberto-timana-gutierrez-593569394/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=262C36&labelColor=262C36)](https://www.linkedin.com/in/rigoberto-timana-gutierrez-593569394/)
+[![Correo](https://img.shields.io/badge/Correo-Escríbeme-C4B5FD?style=for-the-badge&logo=gmail&logoColor=262C36&labelColor=262C36)](mailto:rigoberto.timana.dev@gmail.com)
